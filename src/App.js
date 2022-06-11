@@ -10,7 +10,7 @@ import {
 import LoadingBar from 'react-top-loading-bar';
 
 export default class App extends Component {
-  apiKey= "8cd71b6bfb5b4afa981c0e40c2e7cc51";
+  apiKey= '8cd71b6bfb5b4afa981c0e40c2e7cc51';
   // apiKey='fc9d8d209f994c52aec560db2ae803f0'
   state={progress:10}
 
